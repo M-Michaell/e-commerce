@@ -10,7 +10,7 @@ import { ThemeContext } from "./Context/theme";
 
 function App() {
   const [contextLang, setContextLang] = useState("en");
-  const [contextTheme, setContextTheme] = useState("Dark");
+  const [contextTheme, setContextTheme] = useState("Light");
   return (
     <>
   

@@ -15,7 +15,7 @@ function Header() {
   return (
     <Navbar collapseOnSelect expand="lg" className="bg-body-tertiary fs-4">
       <Container>
-        <NavLink className="nav-link fs-2" to="/">
+        <NavLink className="nav-link fs-2 headermain" to="/">
           Products App
         </NavLink>
 

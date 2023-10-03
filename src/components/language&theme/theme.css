@@ -13,4 +13,8 @@ body.Dark {
  body.Light {
     background-color: #fff;
     color: #333;
+    
+  }
+  .headermain {
+    color: #333;
   }
