@@ -1,0 +1,10 @@
+.active {
+    color: rgb(1, 101, 31) !important;
+}
+.btn-outline-transparent:hover{
+    color: "" !important;
+}
+body{
+    width: 80% !important;
+    margin: auto;
+}
